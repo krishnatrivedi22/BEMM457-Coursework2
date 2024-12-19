@@ -1,0 +1,12 @@
+"time_period","time_identifier","geographic_level","country_code","country_name","region_name_provider","region_code_provider","num_provider","earnings_min","earnings_LQ","earnings_median","earnings_UQ","earnings_max","earnings_diff"
+"202122","Tax year","National","K02000001","United Kingdom","All regions in Scotland",NA,15,29200,32300,34300,36100,38300,9100
+"202122","Tax year","National","K02000001","United Kingdom","All regions in Wales",NA,8,23700,26200,27200,29100,35000,11300
+"202122","Tax year","National","K02000001","United Kingdom","East Midlands","E12000004",9,27000,27700,29600,33600,37200,10200
+"202122","Tax year","National","K02000001","United Kingdom","East of England","E12000006",9,23400,25600,28500,31400,43800,20400
+"202122","Tax year","National","K02000001","United Kingdom","London","E12000007",30,19000,25200,28300,33100,51800,32800
+"202122","Tax year","National","K02000001","United Kingdom","North East","E12000001",5,27000,28500,33200,36500,39100,12100
+"202122","Tax year","National","K02000001","United Kingdom","North West","E12000002",14,23400,26800,27900,28500,35400,12000
+"202122","Tax year","National","K02000001","United Kingdom","South East","E12000008",18,23700,27800,29600,31000,42300,18600
+"202122","Tax year","National","K02000001","United Kingdom","South West","E12000009",12,23000,26500,31200,33300,40200,17200
+"202122","Tax year","National","K02000001","United Kingdom","West Midlands","E12000005",11,23700,27000,30700,34500,38700,15000
+"202122","Tax year","National","K02000001","United Kingdom","Yorkshire and The Humber","E12000003",11,23400,27900,30700,32700,35400,12000
